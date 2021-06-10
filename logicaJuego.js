@@ -4,7 +4,7 @@
       const naranja = document.getElementById('naranja')
       const verde = document.getElementById('verde')
       const btnEmpezar = document.getElementById('btnEmpezar') //obtenemos lso elementos del Dom, asi podremos manipularlos en el documento
-      const ULTIMO_NIVEL = 10
+      const ULTIMO_NIVEL = 20
 
       class Juego {
         constructor() {

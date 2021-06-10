@@ -90,4 +90,16 @@
         width: 100%;
         flex-direction: column;
         text-align: center;
+        font-size: 30px;
+      }
+      .ContainerTitulo h1{
+        color: blueviolet;
+        font-size: 20px;
+      }
+
+      @media only screen and (min-width:768px) and (max-width:900px)
+      {
+        .ContainerTitulo{
+          font-size: 50px;
+        }
       }
